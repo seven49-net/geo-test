@@ -1,0 +1,19 @@
+{
+  "name": "seven49.net test pack",
+  "version": "1.0.0",
+  "description": "testing vectorlayers and geosjson",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "ol": "^7.0.0",
+    "proj4": "^2.7.0"
+  },
+  "devDependencies": {
+
+    "parcel": "^2.0.0"
+  },
+  "keywords": []
+}
